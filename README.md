@@ -57,13 +57,13 @@ Files included:
 
 
 3 . Technologies Used 
-Programming Language: Python 3.x
-Data Analysis & ML: pandas, NumPy, scikit-learn, imbalanced-learn (SMOTE)
-Ml model : Logistic Regression, Random Forest, Decision Tree
-Visualization: Matplotlib, Seaborn
-Model Deployment: Streamlit
-Environment: Jupyter Notebook, GitHub
-Version Control: Git
+- Programming Language: Python 3.x
+- Data Analysis & ML: pandas, NumPy, scikit-learn, imbalanced-learn (SMOTE)
+- Ml model : Logistic Regression, Random Forest, Decision Tree
+- Visualization: Matplotlib, Seaborn
+- Model Deployment: Streamlit
+- Environment: Jupyter Notebook, GitHub
+- Version Control: Git
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
