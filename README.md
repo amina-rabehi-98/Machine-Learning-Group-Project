@@ -81,7 +81,7 @@ How to Run ( Steps are included below )
 
 1 . Clone the repository
 
-git clone https://github.com/aarjunvarma/Machine-Learning-Group-Project.git
+git clone = https://github.com/Nirusa04/Machine-Learning-Group-Project.git
 cd Machine-Learning-Group-Project
 
 2 . Set up a virtual environment (optional but recommended)
