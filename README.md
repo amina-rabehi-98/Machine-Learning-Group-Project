@@ -28,9 +28,9 @@ Our ultimate motivation, within this academic project, is to combine data engine
 
 - Description: This dataset comes from the 2019 Patient Characteristics Survey (PCS). It contains demographic, medical, and social information about patients receiving mental health services across different programs.
 
-File name: Patient_Characteristics_Survey__PCS___2019.csv
-Size: 196,102 rows × 76 columns
-Format: CSV (originally provided in Excel, converted for analysis)
+- File name: Patient_Characteristics_Survey__PCS___2019.csv
+- Size: 196,102 rows × 76 columns
+- Format: CSV (originally provided in Excel, converted for analysis)
 
 
 🔑 Key Variables
@@ -72,7 +72,6 @@ Version Control: Git
 - Lyna Mouhoubi– MSc Data Engineering - DSTI School of engineering – [GitHub](https://github.com/lyna-username)
 - Nirusa Jegaseelan – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/Nirusa04)
 - Amina Rabehi – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/nom-username)
-- Arjun Chintham – MSc Data Science - DSTI School of engineering – [GitHub](https://github.com/nom-username)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
