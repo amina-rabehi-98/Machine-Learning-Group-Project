@@ -64,7 +64,7 @@ Decision Tree
 ## Authors
  
 - Lyna Mouhoubi– MSc Data Engineering - DSTI School of engineering – [GitHub](https://github.com/lyna-username)
-- Nirusa Jegaseelan – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/Nirusa04))
+- Nirusa Jegaseelan – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/Nirusa04)
 - Amina Rabehi – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/nom-username)
 - Arjun Chintham – MSc Data Science - DSTI School of engineering – [GitHub](https://github.com/nom-username)
 
