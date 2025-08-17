@@ -33,7 +33,7 @@ Our ultimate motivation, within this academic project, is to combine data engine
 - Format: CSV (originally provided in Excel, converted for analysis)
 
 
-🔑 Key Variables
+- Key Variables
 Sociodemographic data: Age Group, Sex, Transgender, Sexual Orientation, Hispanic Ethnicity, Race, Living Situation, Household Composition, Education Status, Employment Status
 Mental health and developmental disorders: Mental Illness, Serious Mental Illness, Intellectual Disability, Autism Spectrum, Other Developmental Disability
 Substance use disorders: Alcohol Related Disorder, Drug Substance Disorder, Opioid Related Disorder
@@ -41,7 +41,7 @@ Chronic medical conditions: Diabetes, Obesity, Stroke, Cancer, Hyperlipidemia, H
 Lifestyle and habits: Cannabis Recreational Use, Smokes, Received Smoking Counseling
 Social and insurance coverage: Medicaid Insurance, Medicare Insurance, Private Insurance, Public Assistance Cash Program
 
-🎯Target: Predict presence/absence of mental illness
+- Target: Predict presence/absence of mental illness
 
 
 Source: NYS OMH PCS 2019 (Patient Characteristics Survey)
