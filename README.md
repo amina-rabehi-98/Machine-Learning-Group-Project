@@ -69,9 +69,9 @@ Files included:
 
 ## Authors
  
-- Lyna Mouhoubi– MSc Data Engineering - DSTI School of engineering – [GitHub](https://github.com/lyna-username)
+- Lyna Mouhoubi– MSc Data Engineering - DSTI School of engineering – [GitHub](https://github.com/lyna-mouhoubi)
 - Nirusa Jegaseelan – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/Nirusa04)
-- Amina Rabehi – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/nom-username)
+- Amina Rabehi – MSc Data Analytics - DSTI School of engineering – [GitHub](https://github.com/amina-rabehi-98)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
